@@ -1,6 +1,6 @@
 {
   "HomePage": {
-    "intro": "Halo, saya Satria Bahari",
+    "intro": "Halo, saya Deny Wanda",
     "location": "Berdomisili di Jambi, Indonesia 🇮🇩",
     "location_type": "Onsite",
     "resume": {
@@ -22,7 +22,7 @@
     "title": "Tentang",
     "description": "Pengenalan singkat mengenai siapa saya.",
     "resume": {
-      "paragraph_1": "Saya Satria Bahari, seorang Software Engineer yang berbasis di Jambi, berdedikasi untuk membangun solusi digital yang berdampak. Saya spesialis dalam pengembangan platform web dan aplikasi mobile menggunakan tech stack modern, termasuk Next.js, TypeScript, dan pengembangan Android native dengan Kotlin.",
+      "paragraph_1": "Saya Deny Wanda, seorang Software Engineer yang berbasis di Jambi, berdedikasi untuk membangun solusi digital yang berdampak. Saya spesialis dalam pengembangan platform web dan aplikasi mobile menggunakan tech stack modern, termasuk Next.js, TypeScript, dan pengembangan Android native dengan Kotlin.",
       "paragraph_2": "Fokus utama saya adalah merancang arsitektur perangkat lunak yang tidak hanya berfungsi tetapi juga terstruktur dengan baik, mudah dipelihara, dan skalabel untuk memenuhi kebutuhan bisnis. Saya percaya bahwa kode berkualitas tinggi harus berjalan beriringan dengan efisiensi sistem dan kejelasan logis.",
       "paragraph_3": "Saya memadukan keahlian teknis dengan komunikasi proaktif, berpikir kritis, dan manajemen waktu yang efektif. Saya berkembang dalam lingkungan kolaboratif dan memanfaatkan keterampilan kepemimpinan untuk memastikan setiap proyek memberikan hasil optimal dan dampak nyata.",
       "paragraph_4": "Salam hangat,"
@@ -207,7 +207,7 @@
   "Footer": {
     "hire": "Rekrut saya.",
     "copyright_1": "HAK CIPTA © ",
-    "copyright_2": "Satria Bahari. Seluruh hak cipta dilindungi undang-undang."
+    "copyright_2": "Deny Wanda. Seluruh hak cipta dilindungi undang-undang."
   },
   "LocaleSwitcher": {
     "en": "🇺🇸",

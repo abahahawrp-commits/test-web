@@ -1,16 +1,16 @@
 export const METADATA = {
-  creator: "Satria Bahari",
+  creator: "Deny Wanda",
   description: "Personal website, portfolio, blog",
-  keyword: "satria, satria bahari",
+  keyword: "deny, deny wanda",
   authors: {
-    name: "Satria Bahari",
+    name: "Deny Wanda",
     url: process.env.DOMAIN,
   },
   openGraph: {
     url: process.env.DOMAIN,
-    siteName: "Satria Bahari",
+    siteName: "Deny Wanda",
     locale: "id-ID",
   },
-  exTitle: "| Satria Bahari",
-  profile: "/images/satria.jpg",
+  exTitle: "| Deny Wanda",
+  profile: "/images/profile.jpg",
 };

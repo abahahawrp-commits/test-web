@@ -1,6 +1,6 @@
 {
   "HomePage": {
-    "intro": "Hi, I'm Satria Bahari",
+    "intro": "Hi, I'm Deny Wanda",
     "location": "Based in Jambi, Indonesia 🇮🇩",
     "location_type": "Onsite",
     "resume": {
@@ -22,7 +22,7 @@
     "title": "About",
     "description": "A brief introduction to who I am.",
     "resume": {
-      "paragraph_1": "I'm Satria Bahari, a Jambi-based Software Engineer dedicated to building impactful digital solutions. I specialize in developing web platforms and mobile applications using a modern tech stack, including Next.js, TypeScript, and native Android development with Kotlin.",
+      "paragraph_1": "I'm Deny Wanda, a Jambi-based Software Engineer dedicated to building impactful digital solutions. I specialize in developing web platforms and mobile applications using a modern tech stack, including Next.js, TypeScript, and native Android development with Kotlin.",
       "paragraph_2": "My primary focus is crafting software architecture that doesn't just work but is well-structured, maintainable, and scalable to meet business needs. I believe that high-quality code must go hand-in-hand with system efficiency and logical clarity.",
       "paragraph_3": "I blend technical expertise with proactive communication, critical thinking, and effective time management. I thrive in collaborative environments and leverage leadership skills to ensure every project delivers optimal results and a real-world impact.",
       "paragraph_4": "Best regards,"
@@ -207,7 +207,7 @@
   "Footer": {
     "hire": "Hire me.",
     "copyright_1": "COPYRIGHT © ",
-    "copyright_2": "Satria Bahari. All rights reserved."
+    "copyright_2": "Deny Wanda. All rights reserved."
   },
   "LocaleSwitcher": {
     "en": "🇺🇸",

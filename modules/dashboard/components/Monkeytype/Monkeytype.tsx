@@ -19,7 +19,7 @@ import Leaderboard from "./Leaderboard";
 const Monkeytype = () => {
   const { data, isLoading, error } = useSWR("/api/monkeytype", fetcher);
 
-  const { monkeytype_url, is_active } = MONKEYTYPE_ACCOUNT;
+  const { monkeytype_url, is_active, username } = MONKEYTYPE_ACCOUNT;
 
   const t = useTranslations("DashboardPage");
 
@@ -42,7 +42,7 @@ const Monkeytype = () => {
           target="_blank"
           className="text-sm text-neutral-600 hover:text-neutral-900 dark:text-neutral-500 dark:hover:text-neutral-400"
         >
-          SatriaAxel
+          {username}
         </Link>
       </SectionSubHeading>
 
